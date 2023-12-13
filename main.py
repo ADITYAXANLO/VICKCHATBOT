@@ -52,7 +52,7 @@ async def start(client, message):
             InlineKeyboardButton("❮ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ❯", url=f"https://t.me/VickMachine82_Bot?startgroup=true")
         ]
         ]
-        video = "https://telegra.ph/file/6bb3994d5789d8e7f2c99.mp4"
+        video = "https://graph.org/file/e999c40cb700e7c684b75.mp4"
         await message.reply_video(video, caption=f"""ʜᴇʟʟᴏ[{message.from_user.first_name}](tg://user?id={message.from_user.id}),
 ɪ ᴀᴍ ᴄʜᴀᴛʙᴏᴛ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘs ...
 
