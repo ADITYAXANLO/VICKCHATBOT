@@ -1,4 +1,13 @@
-# About
+━━━━━━━━━━━━━━━━━━━━
+
+<h2 align="center">
+    ──「🥀🔥 𝐕𝐈𝐂𝐊 ✘ 𝐂𝐇𝐀𝐓𝐁𝐎𝐓 🔥🥀」──
+</h2>
+
+<p align="center">
+  <img src="https://te.legra.ph/file/5827085a806d894902d61.jpg">
+</p>
+
 An Advanced Telegram Chatbot Open Sorce Code
 
 ## How To Host
