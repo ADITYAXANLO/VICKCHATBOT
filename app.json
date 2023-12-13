@@ -1,5 +1,6 @@
 {
-    "name": "ChatBot",    
+    "name": "VICKCHATBOT",
+    "logo": "https://te.legra.ph/file/043fb1282136653d60b9b.jpg",
     "env": {
         "BOT_TOKEN": {
             "description": "telegram bot token here",
